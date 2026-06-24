@@ -19,3 +19,5 @@ A robust, Python-based password manager designed with privacy and security as it
 * [ ] **Migration to XChaCha20-Poly1305:** Transitioning to the XChaCha20-Poly1305 AEAD cipher for enhanced security and performance, especially on devices lacking hardware AES acceleration.
 * [ ] **Automated Clipboard Clearing:** Automatically wiping copied passwords from the system clipboard after a set timeout.
 * [ ] **Password Generator:** Built-in utility to generate cryptographically secure, high-entropy passwords.
+
+**Installation** install the _internal.zip file and extract everthing in one place you will see and exe file there simply run it if you have python installed on your device.
