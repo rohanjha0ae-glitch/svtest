@@ -1,4 +1,5 @@
-# SecureVault (Cryptosafe) 
+# SecureVault (Cryptosafe) <img width="593" height="518" alt="image" src="https://github.com/user-attachments/assets/12d8cdb2-997a-4723-b22d-50cf03a33863" />
+
 
 A robust, Python-based password manager designed with privacy and security as its primary focus. SecureVault utilizes **local-only storage** and strong cryptographic standards to ensure your credentials never leave your machine and remain inaccessible to unauthorized users.
 
